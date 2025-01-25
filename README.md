@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://media.giphy.com/media/XE1pBa3m1BYDNUaeQT/giphy.gif" alt="TensorFlow" width="50"/>
-    <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" alt="PyTorch" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50"/>
     
 </p>
 ---
