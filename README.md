@@ -4,22 +4,20 @@
 - 🔍 Exploring the world of Artificial Intelligence and Machine Learning.
 - 🎓 Pursuing Masters of Computer Application (MCA) with a focus on AI/ML at Bennett University.
 - 🧠 Working on innovative AI projects like face recognition, face attendance systems, and deepfake text detection.
-- 💻 Passionate about Full Stack Development and integrating machine learning into web applications.
+- 💻 Passionate about integrating machine learning into web applications.
 - 🌱 Learning more about advanced NLP techniques and deep learning frameworks.
 
 ---
 
 ## ⚙️ Languages and Tools
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=black" alt="Python"/>
+    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=black" alt="Django"/>
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge&labelColor=black" alt="TensorFlow"/>
+    <img src="https://media.giphy.com/media/UQJlOhXZDaZZ82i3rh/giphy.gif" alt="HTML" width="50"/>
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50"/>
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50"/>
 </p>
-
 ---
 
 ## 🚀 Current Projects
