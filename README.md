@@ -22,6 +22,15 @@
     
 </p>
 ---
+##badges
+<p align="center">
+    <a href="https://holopin.me/vardaanshukla">
+        <img src="https://holopin.io/@vardaanshukla" alt="Holopin Badge" width="300"/>
+    </a>
+    <a href="https://holopin.me/vardaanshukla">
+        <img src="https://holopin.io/@vardaanshukla" alt="Holopin Badge" width="300"/>
+    </a>
+</p>
 
 ## 🚀 Current Projects
 - 🌟 **Face Attendance System**: A fully functional face recognition system with real-time annotations and training, achieving high accuracy.
