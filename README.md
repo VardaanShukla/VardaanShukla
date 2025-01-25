@@ -27,8 +27,8 @@
     <a href="https://holopin.io/@vardaanshukla">
         <img src="https://holopin.me/vardaanshukla" alt="An image of @vardaanshukla's Holopin badges" />
     </a>
-    <a href="https://holopin.me/vardaanshukla">
-        <img src="https://holopin.io/@vardaanshukla" alt="Holopin Badge" width="300"/>
+    <a href="https://holopin.io/@vardaanshukla">
+        <img src="https://holopin.me/vardaanshukla" alt="An image of @vardaanshukla's Holopin badges" />
     </a>
 </p>
 
