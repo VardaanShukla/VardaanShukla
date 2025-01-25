@@ -11,9 +11,9 @@
 
 ## ⚙️ Languages and Tools
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=black" alt="Python"/>
-    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=black" alt="Django"/>
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge&labelColor=black" alt="TensorFlow"/>
+    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Django" width="50"/>
+    <img src="https://media.giphy.com/media/XE1pBa3m1BYDNUaeQT/giphy.gif" alt="TensorFlow" width="50"/>
     <img src="https://media.giphy.com/media/UQJlOhXZDaZZ82i3rh/giphy.gif" alt="HTML" width="50"/>
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50"/>
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50"/>
