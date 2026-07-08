@@ -45,6 +45,6 @@
 ---
 
 ## 🌐 Connect with Me
-- 🌍 Website: [Portfolio](https://vardaan-shukla-porfolio.my.canva.site/)
+- 🌍 Website: [Portfolio](https://vardaan-s-portfolio-169002521000.asia-southeast1.run.app)
 - 💼 LinkedIn: [Vardaan Shukla](https://www.linkedin.com/in/vardaan-shukla-0a9a4b208/)
 - 📧 Email: shukla02var@gmail.com
